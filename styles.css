@@ -21,7 +21,7 @@ section {
 
 
 .nav-link {
-    color: #06dbf7;
+    color: #06dbf791;
     font-weight: 600;
 }
 
@@ -102,7 +102,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #fa91ec;
+    background-color: #fdabf2b6;
 
 }
 
@@ -120,18 +120,18 @@ h2 {
 }
 
 .formulario {
-    background-color: #920f81;
+    background-color: #fab4f1;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
 
 .formulario button {
-    background-color: #705d6f;
+    background-color: #bd93ffee;
     border: none;
     font-weight: bold;
 }
