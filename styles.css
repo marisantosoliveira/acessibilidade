@@ -21,7 +21,7 @@ section {
 
 
 .nav-link {
-    color: #06dbf791;
+    color: #06f7f788;
     font-weight: 600;
 }
 
@@ -131,12 +131,12 @@ h2 {
 }
 
 .formulario button {
-    background-color: #bd93ffee;
+    background-color: #bc93ff88;
     border: none;
     font-weight: bold;
 }
 
 /* chama classe do bootstrap para modificar a cor */
 .form-control {
-    background-color: #d06ffda6;
+    background-color: #d06ffd6b;
 }
