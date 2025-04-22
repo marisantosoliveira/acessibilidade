@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #ffa7f8bb;
+    --laranja-claro: #ff8ff6e5;
 }
 
 body {
@@ -102,7 +102,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #fdabf2b6;
+    background-color: #ffffff;
 
 }
 
@@ -112,7 +112,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/boiadera.jpg');
+    background-image: url('img/gliter.jpg');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
@@ -120,7 +120,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #fab4f1;
+    background-color: #000000;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -131,12 +131,12 @@ h2 {
 }
 
 .formulario button {
-    background-color: #fb93ff88;
+    background-color: #e25ad0fd;
     border: none;
     font-weight: bold;
 }
 
 /* chama classe do bootstrap para modificar a cor */
 .form-control {
-    background-color: #f16ffd6b;
+    background-color: #ffffff;
 }
