@@ -144,6 +144,37 @@ h2 {
     background-color: #ffffff;
 }
 
+.menu-acessibilidade{
+    position: fixed;
+    top:2rem;
+    right:20px;
+    z-index: 1000;
+}
+.rotacao-botao{
+    transform: rotate(-90deg);
+    transform-origin: right center;
+}
+
+.opcoes-acessibilidade{
+    margin-top:10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.opcoes-acessibilidade button{
+    margin-bottom: 5px;
+}
+.apresenta-lista{
+    display: none;
+}
+
+.img-inicio { 
+    position: absolute;
+    top: 100px;  /* aumentei o top pra empurrar a imagem mais pra baixo */
+    right: 7vw;
+    width: 30vw;
+    height: 35vw;
+}
 
 .alto-contraste{
     background-color: var(--alto-contraste-fundo);
